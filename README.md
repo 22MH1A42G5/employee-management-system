@@ -1,5 +1,4 @@
 
-# AIzaSyAklKVM9uHJ4bevmuO2x-p42rcS9On_AX4
 
 # Getting Started with Create React App
 
